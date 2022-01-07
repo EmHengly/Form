@@ -1,0 +1,19 @@
+.booth {
+  position: relative;
+  border: 3px solid rgb(141, 151, 151);
+  width: 600px;
+  height: 450px;
+  left: 35%;
+  top: 40px;
+}
+
+.button {
+  position: relative;
+  border: 3px solid rgb(141, 151, 151);
+  text-align: center;
+  background-color: rgb(141, 151, 151);
+  color: white;
+  left: 35%;
+  width: 600px;
+}
+  
